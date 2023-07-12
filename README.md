@@ -9,8 +9,6 @@
 ## Installation
  N/A
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 ## Usage
 The study guide can be used as a reference tool to evaluate the progress made throughout the bootcamp and the knowledge obtained. 
 
